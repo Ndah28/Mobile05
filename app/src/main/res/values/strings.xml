@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">StarterChapter05</string>
+    <string name="app_name">Fitness</string>
+    <string name="textPushups">Push up adalah suatu jenis senam kekuatan yang berfungsi untuk menguatkan
+        otot bisep maupun trisep. Posisi awal tidur tengkurap dengan tangan di sisi kanan kiri badan</string>
+    <string name="textDips">Dips adalah salah satu latihan yang sangat efektif untuk membentuk otot
+        tubuh bagian atas atau upper body muscle. Seperti latihan bodyweight lainnya, dips adalah
+        gerakan compound yang melatih berbagai jenis otot, antara lain otot dada (pectoral),
+        otot bahu (deltoid), otot punggung (back muscle), dan otot trisep (tricep).</string>
+    <string name="textHandstand">Handstand push up yang dimana anda berdiri dengan tangan dan posisi
+        kaki di atas sangat mengharuskan anda untuk mempunyai keseimbangan yang baik. Maka dari itu,
+        untuk anda yang ingin lakukan handstand push up, anda haruslah seorang profesional yang biasa
+        melakukan berbagai macam jenis push up agar anda bisa meminimalisir cedera karena tidak paham
+        tips lakukan push up ini.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
